@@ -1,0 +1,163 @@
+[
+    {
+      "itemName": "Margherita Pizza",
+      "itemDescription": "Classic cheese and tomato pizza",
+      "category": "Pizza",
+      "price": 9.99,
+      "restaurantName": "Pizzeria",
+      "delivery": "Yes"
+    },
+    {
+      "itemName": "Veggie Burger",
+      "itemDescription": "Burger with veggies and cheese",
+      "category": "Burger",
+      "price": 7.99,
+      "restaurantName": "Burger King",
+      "delivery": "No"
+    },
+    {
+      "itemName": "Caesar Salad",
+      "itemDescription": "Romaine lettuce, croutons, and Caesar dressing",
+      "category": "Salad",
+      "price": 6.49,
+      "restaurantName": "Healthy Bites",
+      "delivery": "Yes"
+    },
+    {
+      "itemName": "Chicken Wrap",
+      "itemDescription": "Grilled chicken with lettuce, tomato, and mayo in a wrap",
+      "category": "Wraps",
+      "price": 8.49,
+      "restaurantName": "Wrap & Roll",
+      "delivery": "Yes"
+    },
+    {
+      "itemName": "Pepperoni Pizza",
+      "itemDescription": "Pizza topped with pepperoni and cheese",
+      "category": "Pizza",
+      "price": 10.99,
+      "restaurantName": "Pizzeria",
+      "delivery": "Yes"
+    },
+    {
+      "itemName": "Turkey Club Sandwich",
+      "itemDescription": "Turkey, bacon, lettuce, tomato, and mayo on toast",
+      "category": "Sandwich",
+      "price": 7.99,
+      "restaurantName": "Deli Delight",
+      "delivery": "No"
+    },
+    {
+      "itemName": "Sushi Combo",
+      "itemDescription": "Assorted sushi rolls including salmon and tuna",
+      "category": "Sushi",
+      "price": 12.99,
+      "restaurantName": "Sushi World",
+      "delivery": "Yes"
+    },
+    {
+      "itemName": "Beef Burrito",
+      "itemDescription": "Beef, beans, rice, and cheese wrapped in a tortilla",
+      "category": "Mexican",
+      "price": 9.49,
+      "restaurantName": "Mexicana",
+      "delivery": "Yes"
+    },
+    {
+      "itemName": "Greek Salad",
+      "itemDescription": "Cucumber, tomatoes, feta cheese, and olives",
+      "category": "Salad",
+      "price": 6.99,
+      "restaurantName": "Healthy Bites",
+      "delivery": "No"
+    },
+    {
+      "itemName": "Pad Thai",
+      "itemDescription": "Stir-fried rice noodles with chicken, peanuts, and lime",
+      "category": "Asian",
+      "price": 11.49,
+      "restaurantName": "Thai Express",
+      "delivery": "Yes"
+    },
+    {
+      "itemName": "Chicken Caesar Wrap",
+      "itemDescription": "Grilled chicken, romaine lettuce, Caesar dressing in a wrap",
+      "category": "Wraps",
+      "price": 8.99,
+      "restaurantName": "Wrap & Roll",
+      "delivery": "No"
+    },
+    {
+      "itemName": "Margarita Pasta",
+      "itemDescription": "Pasta with fresh tomatoes, basil, and mozzarella",
+      "category": "Pasta",
+      "price": 10.49,
+      "restaurantName": "Pasta Place",
+      "delivery": "Yes"
+    },
+    {
+      "itemName": "BBQ Chicken Pizza",
+      "itemDescription": "Pizza topped with BBQ sauce, chicken, and onions",
+      "category": "Pizza",
+      "price": 11.49,
+      "restaurantName": "Pizzeria",
+      "delivery": "Yes"
+    },
+    {
+      "itemName": "Falafel Wrap",
+      "itemDescription": "Falafel with hummus, lettuce, and tomato in a wrap",
+      "category": "Wraps",
+      "price": 7.99,
+      "restaurantName": "Mediterranean Grill",
+      "delivery": "No"
+    },
+    {
+      "itemName": "Chicken Teriyaki Bowl",
+      "itemDescription": "Grilled chicken with teriyaki sauce over steamed rice",
+      "category": "Asian",
+      "price": 10.99,
+      "restaurantName": "Asian Fusion",
+      "delivery": "Yes"
+    },
+    {
+      "itemName": "Ham & Cheese Sandwich",
+      "itemDescription": "Ham, Swiss cheese, and mustard on whole wheat bread",
+      "category": "Sandwich",
+      "price": 6.99,
+      "restaurantName": "Deli Delight",
+      "delivery": "No"
+    },
+    {
+      "itemName": "Veggie Quesadilla",
+      "itemDescription": "Quesadilla filled with cheese, peppers, and onions",
+      "category": "Mexican",
+      "price": 8.49,
+      "restaurantName": "Mexicana",
+      "delivery": "Yes"
+    },
+    {
+      "itemName": "Spaghetti Bolognese",
+      "itemDescription": "Spaghetti with a rich beef and tomato sauce",
+      "category": "Pasta",
+      "price": 11.99,
+      "restaurantName": "Pasta Place",
+      "delivery": "Yes"
+    },
+    {
+      "itemName": "Avocado Toast",
+      "itemDescription": "Toasted bread topped with smashed avocado and chili flakes",
+      "category": "Breakfast",
+      "price": 5.99,
+      "restaurantName": "Healthy Bites",
+      "delivery": "No"
+    },
+    {
+      "itemName": "Chicken Tikka Masala",
+      "itemDescription": "Grilled chicken in a creamy tomato curry sauce, served with rice",
+      "category": "Indian",
+      "price": 12.49,
+      "restaurantName": "Spice Hub",
+      "delivery": "Yes"
+    }
+  ]
+  
